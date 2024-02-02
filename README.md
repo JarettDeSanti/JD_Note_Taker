@@ -25,8 +25,6 @@ Demo URL: https://drive.google.com/file/d/1o0_h75n3GKHzEQrA2YfyedeJ-n_PvjYp/view
 
 ## Acknowledgements 
 
-Guidance with this project has been provided by tutor Corey Yates.
-
 ## License
 
 Please refer to the LICENSE in the repository.
