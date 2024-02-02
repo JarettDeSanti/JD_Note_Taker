@@ -19,7 +19,7 @@ Demo URL: https://drive.google.com/file/d/1xevvxKHJz88Ms4nst1GZ2boSt3G6OQdf/view
 
 ## Screenshot
 
-
+![Alt text](<Note Taker Screenshot.png>)
 
 ## Credits
 
